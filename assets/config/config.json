@@ -1,0 +1,9 @@
+{
+  "env": "preview",
+  "apiOriginTemplate": "https://{company}.unspot.ru",
+  "authOrigin": "https://auth.unspot.ru",
+  "mercureHubUrl": "https://mercure.unspot.ru/.well-known/mercure",
+  "sentryDsn": "",
+  "serverHost": "unspot.ru",
+  "mobileRouterSubDomain": "mobile-router"
+}
